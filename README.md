@@ -42,8 +42,6 @@ ICML 2023, pp. 14316–14332. PMLR.
 
 📎 [Link to paper](https://proceedings.mlr.press/v202/immer23a.html)
 
-## 📂 Download the Datasets
-
 # Methods and References
 
 ### AN, AN-s, LS, LS-s, MN-U  
